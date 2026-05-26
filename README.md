@@ -29,7 +29,7 @@ netflix-data-wrangling/
 | Period | 2016 – 2025 |
 | Records | 200 rows |
 | Original Columns | 10 |
-| Cleaned Columns | 16 |
+| Cleaned Columns | 14 |
 | File Encoding | latin1 |
 
 The dataset contains Netflix's top-performing shows and films each year, including viewership numbers, IMDb ratings, release dates, duration, genre, country of production, and key cast/crew.
