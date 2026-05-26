@@ -1,7 +1,6 @@
 #  Netflix Global Content Insights — Data Wrangling Project
 
 > **Internship | Data Immersion & Wrangling**
-> *Data Immersion and Wrangling*
 > Cleaning and preparing the Netflix Global Content Insights dataset (2016–2025) for analysis.
 
 ---
