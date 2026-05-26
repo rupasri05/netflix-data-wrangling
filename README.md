@@ -1,11 +1,12 @@
-# 🎬 Netflix Global Content Insights — Data Wrangling Project
+#  Netflix Global Content Insights — Data Wrangling Project
 
-> **Internship Assignment | Data Immersion & Wrangling**
+> **Internship | Data Immersion & Wrangling**
+> *Data Immersion and Wrangling*
 > Cleaning and preparing the Netflix Global Content Insights dataset (2016–2025) for analysis.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 netflix-data-wrangling/
@@ -21,7 +22,7 @@ netflix-data-wrangling/
 
 ---
 
-## 📊 About the Dataset
+##  About the Dataset
 
 | Property | Value |
 |---|---|
@@ -36,7 +37,7 @@ The dataset contains Netflix's top-performing shows and films each year, includi
 
 ---
 
-## 🔍 Data Quality Issues Identified
+##  Data Quality Issues Identified
 
 Six issues were found during profiling:
 
@@ -51,7 +52,7 @@ Six issues were found during profiling:
 
 ---
 
-## 🧹 Cleaning & Transformations Applied
+##  Cleaning & Transformations Applied
 
 ### Fixes
 - **Genre** — stripped leading/trailing whitespace from all values
@@ -74,7 +75,7 @@ Six issues were found during profiling:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Prerequisites
 Make sure you have Python 3 and pandas installed:
@@ -109,7 +110,7 @@ python cleaning_script.py
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Python 3**
 - **Pandas** — data loading, cleaning, transformation
@@ -117,8 +118,8 @@ python cleaning_script.py
 
 ---
 
-## 👤 Author
+##  Author
 
-**[Your Name]**
+**Rupa Sri**
 Data Analytics Intern
-[Your LinkedIn] | [Your GitHub]
+linkedin.com/in/rupa-sri-561066303 | github.com/rupasri05
