@@ -65,8 +65,6 @@ Six issues were found during profiling:
 | `Viewership_M` | Viewership count in millions (numeric) | `Viewership` |
 | `Viewership_Unit` | Unit type: Streams / Views / Hours | `Viewership` |
 | `Release_Date` | Standardised date (`YYYY-MM-DD`) | `Release Date` |
-| `Release_Month` | Month name (e.g., "July") | `Release Date` |
-| `Release_Year` | Year as integer | `Release Date` |
 | `Duration_Min` | Total runtime in minutes | `Duration` |
 | `Season_Label` | Season/episode label (e.g., "S1") | `Duration` |
 | `Primary_Country` | First-listed country of production | `Country` |
