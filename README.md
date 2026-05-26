@@ -98,7 +98,7 @@ python cleaning_script.py
 
 ---
 
-## 📤 Deliverables
+##  Deliverables
 
 - [x] `data_dictionary.md` — full column-level documentation
 - [x] `cleaning_script.py` — commented Python/Pandas cleaning script
